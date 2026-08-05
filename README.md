@@ -72,3 +72,9 @@ Para ejecutar el programa desde NetBeans, haz clic derecho sobre `Main.java` y s
 ## Git
 
 Los commits de la actividad pueden realizarse después de comprobar que el proyecto compila y que la conexión con MySQL funciona.
+
+## Documentación de Git
+
+El proyecto utiliza Git para el control de versiones y GitHub
+para almacenar el repositorio y gestionar cambios mediante ramas
+y Pull Requests.
