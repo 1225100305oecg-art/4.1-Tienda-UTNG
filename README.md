@@ -46,7 +46,7 @@ Ejecuta primero `script.sql` en MySQL.
 La conexión está configurada para:
 
 - Host: `localhost`
-- Puerto: `3306`
+- Puerto: `3306 o 3245`
 - Base de datos: `utng_tienda`
 - Usuario: `root`
 - Contraseña: `enrique`
