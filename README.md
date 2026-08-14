@@ -21,7 +21,7 @@ Proyecto de Programación Orientada a Objetos para la gestión de productos medi
 ## Estructura
 
 ```text
-usodegit/
+4.1-Tienda-UTNG/
 ├── pom.xml
 ├── script.sql
 ├── .gitignore
@@ -32,11 +32,17 @@ usodegit/
             └── oecg/
                 └── gtid232/
                     ├── ConexionDB.java
+                    ├── Main.java
+                    ├── Persona.java
+                    ├── PersonaTest.java
+                    ├── PrecioInvalidoException.java
                     ├── Producto.java
                     ├── ProductoDAO.java
                     ├── ProductoDAOImpl.java
+                    ├── ProductoNoEncontradoException.java
                     ├── ProductoService.java
-                    └── Main.java
+                    ├── ProductoServiceTest.java
+                    └── StockInsuficienteException.java
 ```
 
 ## Base de datos
